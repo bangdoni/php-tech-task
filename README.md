@@ -11,4 +11,5 @@
 ## How to use
 
 ![enter image description here](https://i.imgur.com/T92eLtg.png)
-`URL` api is `http://localhost:8000`. Use `form-data` on `Body` with `key: date` and value is date you want to use and using `POST` method.
+**_`URL`_** api is **_`http://localhost:8000`_**.
+Use **_`form-data`_** on **_`Body`_** with **_`key: date`_** and value is date you want to use and using **_`POST`_** method.
